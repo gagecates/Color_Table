@@ -1,0 +1,7 @@
+
+why do you have to pass in height and width to the function if they were first declared global variables?
+
+cant put .value after the DOM element when defining as variable? had to put .value in the function call arguments.
+
+Why cant use cell.style.color? Would only color the last block of the table 
+If use ev.target.style.color, it works...

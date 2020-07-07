@@ -1,0 +1,8 @@
+1. Why can I not put .value; after each DOM element when declaring them as variables? And then just
+put width and height in the makeGrid function call? Instead I had to use width.value and height.value within that
+call...
+
+2. At the end of the second loop within the makeGrid function, I add an event listener to each table cell. I tried to use
+cell.style.background color to color it on a click but it would not work correctly. Instead I had to use ev.target.style...
+This seems the same to me, any idea the difference?
+
